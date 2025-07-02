@@ -44,10 +44,6 @@
 
 👉 [珠海晶益微电子有限公司](https://www.amplore.com/)
 
-- **JY6311驱动开发环境**： 在虾哥Xmini-C3开发环境(V1.7.6版本)基础上集成了JY6311驱动的开发环境github地址如下：
-
-👉 [xiaozhi-esp32-main_jy6311【github】](https://github.com/Clover-Luckily/xiaozhi-esp32-jy6311#)
-
 - **开发环境使用**：参考虾哥Xmini-C3的开发环境使用即可，github地址上面已经给出；
 
 - **CSDN技术交流**：此项目也在CSDN上写了一遍博客详细介绍，有什么疑问欢迎一起讨论，CSDN博客地址如下：
